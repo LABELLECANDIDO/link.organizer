@@ -15,8 +15,8 @@ Programa Web exclusivo para centralizar os contatos dos usuários, permitindo um
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto" src="img/desktop (1).png" width="40%">
-  <img alt="Preview do projeto" src="img/mobile.png" width="50%">
+  <img alt="Preview do projeto" src=".github/desktop (1).png" width="40%">
+  <img alt="Preview do projeto" src=".github/mobile.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
