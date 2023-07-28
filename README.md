@@ -35,5 +35,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Centralizador de Contatos é um app para ajudar a rastrear os contatos importantes.
 
-- [Visite o projeto online](https://seu-link-aqui)
+- [Visite o projeto online](https://labellecandido.github.io/link.organizer/)
 # link.organizer
